@@ -1,0 +1,14 @@
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\Helpers.deps.json
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\Helpers.dll
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.AssemblyInfo.cs
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.csprojAssemblyReference.cache
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\Helpers.pdb
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.dll
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.pdb
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\manriqjm\source\repos\WebAppJar\ClassLibrary1\obj\Debug\netstandard2.0\Helpers.csproj.CopyComplete

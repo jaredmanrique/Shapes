@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Shape Calculator</h1>
+    <p class="lead">This web app gives you the ability to determine the shape of a four sided polygon. Shape may be a "Square", "Rectangle", or "Neither" of the two.</p>
+    @Html.ActionLink("Click here to start", "Index", "Calculate",null, htmlAttributes: new { @class = "btn btn-success btn-lg" })
+</div>
+
